@@ -1,7 +1,7 @@
 REST(ful)
 ===
 
-![center](/home/elbabili/Boostnote/notes/rest.jpg)
+![center](rest.jpg)
 
 30.1 Créer un projet web dynamique (nous n'utiliserons pas maven, ni spring ici, vous devez avoir installer Tomcat)
 
